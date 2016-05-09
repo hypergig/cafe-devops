@@ -1,5 +1,30 @@
 ---
 
+# - log: Template
+#   author: Varun
+#   barista: Jordan
+#   date: 2016-05-09T17:33:28Z-0400
+#     food: coffee
+#     category: drink
+#     name: Unknown
+#     roast: Bold
+#     equipment:
+#       name: "Moccamaster KBGT 10-Cup Coffee Brewer with Thermal Carafe, Polished Silver"
+#     ingrediants:
+#       water:
+#         quantity: 10 cups
+#       beans:
+#         type: coffee
+#         grounded: true
+#         coarseness: 7
+#         machine: "OXO On Conical Burr Coffee Grinder with Intelligent Dosing Scale"
+#     rating:
+#       bitterness: 6
+#       strength: 5
+#       flavor: 7
+#       barista: 7
+#   notes: The brew is real good today
+
 - log: Tweak
   by: Jordan
   date: Mon May  9 08:28:32 EDT 2016
