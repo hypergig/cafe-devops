@@ -17,6 +17,11 @@ Café-devops repo... to log our coffee journey
 
 ### Types of log entries
 
+#### Bean
+* When changing the bean in the grinder
+* Required attributes:
+  * `name:` *The name of the bean used*
+
 #### Tweak
 * A change to the brew process such as new filters or grind granularity
 * Required attributes:
