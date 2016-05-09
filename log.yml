@@ -19,12 +19,35 @@
 #         coarseness: 7
 #         weight: 76g
 #         machine: "OXO On Conical Burr Coffee Grinder with Intelligent Dosing Scale"
-#     rating:
-#       bitterness: 6
-#       strength: 5
-#       flavor: 7
-#       barista: 7
-#   notes: The brew is real good today
+#     ratings:
+#       -
+#         notes: Too good
+#         author: varun
+#         bitterness: 6
+#         strength: 5
+#         flavor: 7
+#         barista: 7
+#         suggestions:
+#           - could be better, use 75g next time.
+#       -
+#         notes: It was okay
+#         author: Anthony
+#         bitterness: 3
+#         strength: 7
+#         flavor: 6
+#         barista: 6
+#         suggestions:
+#           - try harder
+#       -
+#         notes: I make the best coffee
+#         author: Jordan
+#         bitterness: 4
+#         strength: 8
+#         flavor: 9
+#         barista: 10
+#         suggestions:
+#           - Good Job!
+#   notes: The brew should be good today
 
 - log: Tweak
   by: Jordan
