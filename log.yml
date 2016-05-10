@@ -64,3 +64,19 @@
     strength: 5 out of 10
     flavor: 7 out of 10
   notes: The brew is real good today
+
+- log: Bean
+  by: Jordan
+  date: Tue May 10 08:19:12 EDT 2016
+    name: Toby's Estate Brooklyn
+  notes: Thanks @chamilton-nulli for the beans!
+
+- log: Taste
+  by: Jordan
+  date: Tue May 10 08:19:12 EDT 2016
+    coffee: Toby's Estate Brooklyn
+    roast: Medium
+    bitterness: 4 out of 10
+    strength: 5 out of 10
+    flavor: 7 out of 10
+  notes: Incredibly smooth
