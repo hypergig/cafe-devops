@@ -1,5 +1,14 @@
 ---
 
+- log: Change of bean
+  by: Buhay
+  date: Wed May 18 18:09:49 EDT 2016
+    coffee: True Mocha Java 
+    by: Kobrick Coffee Co.
+    roast: Medium
+    roast_date: 04/28/2016
+  notes: Donated by Kim Salerno
+
 - log: Taste
   by: Jordan
   date: Wed May 18 08:36:01 EDT 2016
@@ -41,7 +50,7 @@
   date: Mon May  9 08:28:32 EDT 2016
     change: Set the grinder to one notch more fine, to left of the middle between 6 and 7
   notes: Since switching to perforated coffee filters the coffee seems weaker than usual, finer coffee should keep water in hopper longer thus brew stronger coffee
-  
+
 # - log: Template
 #   author: Varun
 #   barista: Jordan
